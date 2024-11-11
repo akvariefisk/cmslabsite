@@ -1,0 +1,3 @@
+Sitemap: https://akvariefisk.github.io/cmslabsite/sitemap.xml
+User-agent:*
+Disallow:
